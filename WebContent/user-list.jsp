@@ -51,6 +51,7 @@
 						<th>Email</th>
 						<th>Country</th>
 						<th>Actions</th>
+						<th>Address</th>
 					</tr>
 				</thead>
 				<tbody>
